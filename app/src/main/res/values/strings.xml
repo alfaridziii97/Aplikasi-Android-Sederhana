@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+    <string name="name_food">Nama Masakan</string>
+    <string name="content_main">Bahan dan cara pembuatan makanan khas Nusantara dari berbagai daerah</string>
+    <string name="content_origin">Asal Makanan</string>
+    <string name="overview">overview</string>
+    <string name="ingredients">Daftar Bahan</string>
+    <string name="howtocook">Cara Memasak</string>
+    <string name="content_howtomake">Cara Membuat Makanan khas Nusantara</string>
+    <string name="content_ingredients">Bahan-bahan</string>
+    <string name="name">Kucing Unyu</string>
+    <string name="nick_name">Kunyu</string>
+    <string name="city">Mars</string>
+    <string name="email">kucingunyu@gmail.com</string>
+    <string name="title">Technology Enthusiast</string>
+</resources>
